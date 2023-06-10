@@ -14,8 +14,8 @@ const root = createRoot(container)
 root.render(<>
   <Sayac />
   <RuhHalleri />
-  {/* <Dondurucu /> */}
-  {/* <Input /> */}
+  <Dondurucu />
+  <Input />
   <Kareler />
   <Programcilar />
 </>);

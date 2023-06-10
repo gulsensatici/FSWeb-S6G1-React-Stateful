@@ -35,7 +35,7 @@ ADIM 4:
   "not" için kullandığımız operatörü hatırlıyor musunuz??
 */
 
-import React,{useState} from 'react'; /* STEP 0 */
+import React,{useState} from 'react'; /* STEP 0 */ // sadece export ettiğini süslü parantez ile kullanırsın.
 
 
 export default function Dondurucu() {

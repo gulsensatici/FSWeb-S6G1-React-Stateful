@@ -36,7 +36,7 @@ ADIM 6:
 import React ,{useState} from 'react'; /* ADIM 0 */
 
 export default function Input() {
-  const [inputDeğeri,setInputDeğeri]=useState();
+  const [inputDeğeri,setInputDeğeri]=useState("");
   /* ADIM 1 */
 	
   const inputuDeğiştir = evt => {
